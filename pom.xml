@@ -34,7 +34,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>${exec-maven-plugin.version}</version>
                 <configuration>
-                    <mainClass>org.achumakin.PrimeProcessor</mainClass>
+                    <mainClass>org.achumakin.PrimeStreamCalc</mainClass>
                     <arguments>
                         <argument>100</argument>
                     </arguments>
